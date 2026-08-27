@@ -1,4 +1,4 @@
-<img src="docs/images/GG-Logo.png" width="200" alt="Felton Brawner" />
+<img src="docs/images/GG-Logo.png" width="400" alt="Felton Brawner" />
 
 Homelab infrastructure and AI-agent tooling — Kubernetes (k3s), Ceph, multi-agent orchestration (Claude/Codex/Antigravity), and the automation that ties them together. Everything below is published for portfolio purposes: real design, real agent/workflow code, with live-infrastructure detail (credentials, internal hostnames, IPs) kept private.
 
