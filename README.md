@@ -13,9 +13,9 @@ Claude-agent-operated IT incident triage. Monitoring alerts route through n8n to
 </td>
 </tr>
 <tr>
-<td><img src="docs/images/hexmap-icon.png" width="56" height="56" /></td>
+<td><img src="docs/images/Overwatch-Icon.png" width="56" height="56" /></td>
 <td>
-<a href="https://github.com/fbrawner3/Overwatch"><b>hexmap</b></a><br/>
+<a href="https://github.com/fbrawner3/Overwatch"><b>Overwatch</b></a><br/>
 Agentless network topology visualizer. Polls existing infrastructure APIs (Proxmox, Kubernetes, Docker, Home Assistant, OPNsense, NAS, Infisical, Authentik) directly — nothing installed on monitored hosts.
 </td>
 </tr>
