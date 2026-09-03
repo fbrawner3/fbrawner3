@@ -16,7 +16,7 @@ Claude-agent-operated IT incident triage. Monitoring alerts route through n8n to
 <td><img src="docs/images/Overwatch-Icon.png" width="56" height="56" /></td>
 <td>
 <a href="https://github.com/fbrawner3/Overwatch"><b>Overwatch</b></a><br/>
-Agentless network topology visualizer. Polls existing infrastructure APIs (Proxmox, Kubernetes, Docker, Home Assistant, OPNsense, NAS, Infisical, Authentik) directly — nothing installed on monitored hosts.
+Infrastructure topology and incident automation platform. Auto-discovers dependencies across Proxmox, Kubernetes, Docker, networking, storage, and identity with health monitoring, dependency-aware alerting, maintenance mode, and AI-assisted triage.
 </td>
 </tr>
 <tr>
