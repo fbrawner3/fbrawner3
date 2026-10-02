@@ -48,7 +48,7 @@ Single-page launch/approve/monitor UI for both DBOS workflows above — replaces
 </td>
 </tr>
 <tr>
-<td><img src"docs/images/rag-icon.png" width="56" height="56" /></td>
+<td><img src="docs/images/rag-icon.png" width="56" height="56" /></td>
 <td>
 <a href="https://github.com/fbrawner3/vector-memory"><b>k3s-standards</b></a><br/>
 Hybrid RAG memory for a four-agent AI fleet: PostgreSQL pgvector/VectorChord + full-text search, RRF fusion, LLM reranker, durable write spool. 93-98% top-10 recall.
